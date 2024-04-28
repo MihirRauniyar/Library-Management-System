@@ -1,0 +1,8 @@
+Harry Potter,JK Rowling,30,$17
+The Godfather, Mario Puzo, 26, $18
+Dune, Frank Herbert, 27, $15
+Frankenstein, Mary Shelley, 24, $24
+Dracula,  Bram Stoker, 36, $18
+Invisible Man, Ralph Ellison, 24, $22
+Hamlet, William Shakespeare, 33, $25
+Jurassic Park, Michael Crichton, 36, $20
